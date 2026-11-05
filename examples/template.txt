@@ -1,0 +1,8 @@
+Sehr geehrte(r) {{ name }},
+
+hiermit laden wir Sie herzlich zu unserer nächsten Veranstaltung ein.
+
+Bitte geben Sie uns kurz Bescheid, ob Sie teilnehmen werden.
+
+Mit herzlichen Grüßen
+Ihr Veranstaltungsteam

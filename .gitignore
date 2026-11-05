@@ -1,0 +1,10 @@
+# Never commit credentials, logs, or productive/private content.
+.env
+email_sender.log
+__pycache__/
+*.pyc
+venv/
+
+# data/ is local-only: productive content + its nested git history repo.
+# Never publish it; fresh clones re-seed data/ from examples/ on first start.
+data/
